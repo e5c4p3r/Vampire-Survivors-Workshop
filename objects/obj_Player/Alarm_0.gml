@@ -1,3 +1,3 @@
-event_user(0)
+event_user(0);
 
-alarm[0] = alarmtime[0]
+alarm[0] = alarmtime[0];
