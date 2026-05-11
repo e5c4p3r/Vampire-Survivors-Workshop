@@ -1,6 +1,6 @@
 // Inherit the parent event
 event_inherited();
 
-walkspeed = 0.5;
-dps = 5;
-hp = 50;
+dmg = 10;
+
+xoffset = 0;
