@@ -1,0 +1,49 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Vampire Survivors Workshop",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.4.222",
+  },
+  "name":"Vampire Survivors Workshop",
+  "resources":[
+    {"id":{"name":"obj_Enemy_1","path":"objects/obj_Enemy_1/obj_Enemy_1.yy",},},
+    {"id":{"name":"obj_Enemy_2","path":"objects/obj_Enemy_2/obj_Enemy_2.yy",},},
+    {"id":{"name":"obj_Enemy_Parent","path":"objects/obj_Enemy_Parent/obj_Enemy_Parent.yy",},},
+    {"id":{"name":"obj_Game_Controller","path":"objects/obj_Game_Controller/obj_Game_Controller.yy",},},
+    {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Axe","path":"sprites/Axe/Axe.yy",},},
+    {"id":{"name":"Bat","path":"sprites/Bat/Bat.yy",},},
+    {"id":{"name":"Knight","path":"sprites/Knight/Knight.yy",},},
+    {"id":{"name":"Slash","path":"sprites/Slash/Slash.yy",},},
+    {"id":{"name":"Slime","path":"sprites/Slime/Slime.yy",},},
+    {"id":{"name":"TX_Tileset_Grass","path":"sprites/TX_Tileset_Grass/TX_Tileset_Grass.yy",},},
+    {"id":{"name":"XP","path":"sprites/XP/XP.yy",},},
+    {"id":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
