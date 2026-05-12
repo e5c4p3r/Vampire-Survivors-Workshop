@@ -549,3 +549,11 @@ draw_text_transformed(display_get_gui_width()/2, 20, $"Level: {level}", 2, 2, 0)
 ## 到這裡就結束啦！
 
 恭喜你完成了一個基礎的 Vampire Survivors 遊戲原型！接下來可以試著新增更多種不同的敵人、武器，或是增加隨機選取升級數值、寶箱等要素。除此之外，遊戲優化也是這類遊戲非常重要的一環，可以試著研究如何讓遊戲在上千個敵人的情況下仍能流暢運行。希望這個教學讓你有所收穫～
+
+## 美術素材來源
+
+草地 Tileset：[https://cainos.itch.io/pixel-art-top-down-basic](https://cainos.itch.io/pixel-art-top-down-basic)
+角色 Sprite：[https://xzany.itch.io/free-knight-2d-pixel-art](https://xzany.itch.io/free-knight-2d-pixel-art)
+敵人 Sprite：[https://rottingpixels.itch.io/enemy-characters-pack-free](https://rottingpixels.itch.io/enemy-characters-pack-free)
+斧頭 Sprite：[https://raventale.itch.io/daily-doodles-pixelart-asset-pack](https://raventale.itch.io/daily-doodles-pixelart-asset-pack)
+揮砍 Sprite：[https://opengameart.org/content/pixel-art-sword-slash-effect](https://opengameart.org/content/pixel-art-sword-slash-effect)
