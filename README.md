@@ -552,8 +552,8 @@ draw_text_transformed(display_get_gui_width()/2, 20, $"Level: {level}", 2, 2, 0)
 
 ## 美術素材來源
 
-草地 Tileset：[https://cainos.itch.io/pixel-art-top-down-basic](https://cainos.itch.io/pixel-art-top-down-basic)
-角色 Sprite：[https://xzany.itch.io/free-knight-2d-pixel-art](https://xzany.itch.io/free-knight-2d-pixel-art)
-敵人 Sprite：[https://rottingpixels.itch.io/enemy-characters-pack-free](https://rottingpixels.itch.io/enemy-characters-pack-free)
-斧頭 Sprite：[https://raventale.itch.io/daily-doodles-pixelart-asset-pack](https://raventale.itch.io/daily-doodles-pixelart-asset-pack)
-揮砍 Sprite：[https://opengameart.org/content/pixel-art-sword-slash-effect](https://opengameart.org/content/pixel-art-sword-slash-effect)
+- 草地 Tileset：[https://cainos.itch.io/pixel-art-top-down-basic](https://cainos.itch.io/pixel-art-top-down-basic)
+- 角色 Sprite：[https://xzany.itch.io/free-knight-2d-pixel-art](https://xzany.itch.io/free-knight-2d-pixel-art)
+- 敵人 Sprite：[https://rottingpixels.itch.io/enemy-characters-pack-free](https://rottingpixels.itch.io/enemy-characters-pack-free)
+- 斧頭 Sprite：[https://raventale.itch.io/daily-doodles-pixelart-asset-pack](https://raventale.itch.io/daily-doodles-pixelart-asset-pack)
+- 揮砍 Sprite：[https://opengameart.org/content/pixel-art-sword-slash-effect](https://opengameart.org/content/pixel-art-sword-slash-effect)
