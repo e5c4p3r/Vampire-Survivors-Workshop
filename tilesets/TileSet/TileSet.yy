@@ -12,8 +12,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Vampire Survivors Workshop",
-    "path":"Vampire Survivors Workshop.yyp",
+    "name":"Example",
+    "path":"folders/Example.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

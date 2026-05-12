@@ -10,7 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Example","folderPath":"folders/Example.yy","name":"Example","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Example/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -31,7 +32,7 @@
     {"id":{"name":"obj_Weapon_Parent","path":"objects/obj_Weapon_Parent/obj_Weapon_Parent.yy",},},
     {"id":{"name":"obj_Weapon_Slash","path":"objects/obj_Weapon_Slash/obj_Weapon_Slash.yy",},},
     {"id":{"name":"obj_XP","path":"objects/obj_XP/obj_XP.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
     {"id":{"name":"Axe","path":"sprites/Axe/Axe.yy",},},
     {"id":{"name":"Bat","path":"sprites/Bat/Bat.yy",},},
     {"id":{"name":"Knight","path":"sprites/Knight/Knight.yy",},},
@@ -44,7 +45,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
