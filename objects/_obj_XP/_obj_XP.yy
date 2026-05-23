@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Weapon_Parent",
+  "%Name":"_obj_XP",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Weapon_Parent",
+  "name":"_obj_XP",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"XP",
+    "path":"sprites/XP/XP.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

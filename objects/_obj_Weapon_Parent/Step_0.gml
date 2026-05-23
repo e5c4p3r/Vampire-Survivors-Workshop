@@ -1,5 +1,5 @@
 var _list = ds_list_create();
-var _num = collision_rectangle_list(bbox_left, bbox_top, bbox_right, bbox_bottom, obj_Enemy_Parent, false, true, _list, false);
+var _num = collision_rectangle_list(bbox_left, bbox_top, bbox_right, bbox_bottom, _obj_Enemy_Parent, false, true, _list, false);
 if _num > 0
 {
     for (var i = 0; i < _num; ++i;)
@@ -10,7 +10,7 @@ if _num > 0
 			
 			_target.flash_timer = 5;
 			
-			_target.kb_dir = point_direction(obj_Player.x, obj_Player.y, _target.x, _target.y);
+			_target.kb_dir = point_direction(_obj_Player.x, _obj_Player.y, _target.x, _target.y);
 			_target.kb_speed = 1;
 			
 		    _target.hp -= dmg;

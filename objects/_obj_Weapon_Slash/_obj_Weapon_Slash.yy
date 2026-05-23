@@ -1,21 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Weapon_Axe",
+  "%Name":"_obj_Weapon_Slash",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Weapon_Axe",
+  "name":"_obj_Weapon_Slash",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Example/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_Weapon_Parent",
-    "path":"objects/obj_Weapon_Parent/obj_Weapon_Parent.yy",
+    "name":"_obj_Weapon_Parent",
+    "path":"objects/_obj_Weapon_Parent/_obj_Weapon_Parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Axe",
-    "path":"sprites/Axe/Axe.yy",
+    "name":"Slash",
+    "path":"sprites/Slash/Slash.yy",
   },
   "spriteMaskId":null,
   "visible":true,

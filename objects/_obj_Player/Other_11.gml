@@ -1,4 +1,4 @@
-var axe = instance_create_layer(x, y, "Instances", obj_Weapon_Axe);
+var axe = instance_create_layer(x, y, "Instances", _obj_Weapon_Axe);
 
 axe.direction = random_range(45, 135);
 axe.speed = 4;
